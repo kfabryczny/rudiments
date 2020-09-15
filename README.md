@@ -101,6 +101,10 @@ tempo is 120.
 
 # Installation
 
+```bash
+sudo apt-get install libsdl2-dev
+```
+
 rudiments can be installed with `cargo`.
 
 ```bash
